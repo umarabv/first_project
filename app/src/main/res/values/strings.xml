@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">First project.Umar. DHT-2-19</string>
+    <string name="vate">VATE</string>
+    <string name="platform">Creative platform for photographers</string>
+    <string name="register">register</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="confirm">confirm password</string>
+    <string name="Submit">submit</string>
+    <string name="main">main</string>
+    <string name="last_photo">Last Photo</string>
+    <string name="upload">Upload</string>
+    <string name="presentation">presentation</string>
+    <string name="create">create</string>
+    <string name="analytics">Analytics</string>
+    <string name="likes">likes</string>
+    <string name="auditoria">auditorium</string>
+    <string name="viewed">viewed</string>
+    <string name="empty">still empty</string>
+    <string name="watch">watch</string>
+    <string name="my_feet">my feet</string>
+    <string name="staff">staff_photos</string>
+    <string name="nature">nature</string>
+    <string name="street">street</string>
+    <string name="space">space</string>
+    <string name="moon">moon</string>
+    <string name="post">post</string>
+    <string name="live">live</string>
+
+
+</resources>
