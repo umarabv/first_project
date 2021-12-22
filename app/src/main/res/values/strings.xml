@@ -27,6 +27,24 @@
     <string name="moon">moon</string>
     <string name="post">post</string>
     <string name="live">live</string>
+    <string name="A">Алексей Федорович</string>
+    <string name="B">Установить статус</string>
+    <string name="U">Фото</string>
+    <string name="C">Редактировать</string>
+    <string name="E">История</string>
+    <string name="F">Записи</string>
+    <string name="G">Укажите место учебы</string>
+    <string name="J">Клип</string>
+    <string name="K">Укажите место работы</string>
+    <string name="L">Подробна информация</string>
+    <string name="M">Ксюша</string>
+    <string name="N">Анна</string>
+    <string name="O">Алексей</string>
+    <string name="P">Федор</string>
+    <string name="R">Друзья</string>
+    <string name="online_1">Online</string>
+    <string name="Back">Back</string>
+
 
 
 </resources>
